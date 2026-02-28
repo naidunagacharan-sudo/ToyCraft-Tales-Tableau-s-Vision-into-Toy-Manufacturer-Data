@@ -1,0 +1,2 @@
+# ToyCraft-Tales-Tableau-s-Vision-into-Toy-Manufacturer-Data
+Use Tableau to analyze toy manufacturing data to identify market trends, production patterns, and consumer preferences. Create interactive dashboards for seasonal sales trends, demographic-based preferences, and regional product performance to support strategic decisions, improve marketing, optimize production, and increase competitiveness.
